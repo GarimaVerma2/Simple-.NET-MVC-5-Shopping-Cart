@@ -23,3 +23,7 @@ As mentioned, this is a experimental project and is not ready for production. Pl
 - Admin Page
     - CRUD functions for Products and Suppliers, view Orders, view and delete Customer
     - Displaying Stock level using chartjs
+
+
+
+Testing ReadMe
